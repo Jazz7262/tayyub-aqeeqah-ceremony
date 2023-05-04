@@ -30,7 +30,7 @@ function CustomModel1() {
                 {
                     scrollTop: length - 500,
                 },
-                20000,
+                28000,
                 "linear",
                 function () {
                     $("html, body").animate(
